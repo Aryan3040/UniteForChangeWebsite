@@ -113,11 +113,11 @@ function AppContact() {
           <ul>
             <li>
               <i className="fas fa-envelope"></i>
-              hello@domain.com
+              unite4change@gmail.com
             </li>
             <li>
               <i className="fas fa-phone"></i>
-              000-000-0000
+              404-796-3510
             </li>
             <li>
               <i className="fas fa-map-marker-alt"></i>

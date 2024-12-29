@@ -26,7 +26,7 @@ function AppDonate() {
                     </Col>
                     <Col sm={6}>
                         <p>
-                            PLACEHOLDER.
+                            Support our cause by donating to our GoFundMe! Just click the picture to head directly to our donation page, every contribution makes a difference, and we truly appreciate your support!
                         </p>
                         
                     </Col>
