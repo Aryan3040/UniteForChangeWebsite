@@ -33,7 +33,7 @@ def contact():
     # Create the email content
     email_message = MIMEMultipart()
     email_message['From'] = EMAIL_ADDRESS
-    email_message['To'] = EMAIL_ADDRESS  # Sending to yourself
+    email_message['To'] = EMAIL_ADDRESS  # Sending to myself
     email_message['Subject'] = f"New Contact Form Submission from {full_name}"
 
     # Email body
