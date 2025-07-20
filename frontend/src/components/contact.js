@@ -21,7 +21,7 @@ function AppContact() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    fetch('http://100.101.85.99:5002/contact', { // Changed to a relative URL
+    fetch('http://localhost:5002/contact', { // Changed to a relative URL
       method: 'POST',
       mode: 'cors', // Added CORS mode
       headers: {
@@ -117,7 +117,7 @@ function AppContact() {
             </li>
             <li>
               <i className="fas fa-phone"></i>
-              404-796-3510
+              Contact us via email for phone inquiries
             </li>
             <li>
               <i className="fas fa-map-marker-alt"></i>
